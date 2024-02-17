@@ -1,7 +1,7 @@
 {
-  "name": "OTA-BE-Test",
+  "name": "express-ts-starter",
   "version": "0.0.1",
-  "description": "OTA Initial Coding Challenge",
+  "description": "Express TypeScript Project with TypeORM and PostgreSQL",
   "type": "commonjs",
   "main": "src/bin/index.ts",
   "license": "MIT",
